@@ -8,3 +8,5 @@
 * [betaflight](https://betaflight.com)
 * [speedybee](https://www.speedybee.com)
 * [scout - custom flight controller](https://timhanewich.medium.com/my-greatest-engineering-accomplishment-the-scout-flight-controller-d8937fb45b24)
+* [diy arduino based quadcopter](https://www.hackster.io/akarsh98/diy-arduino-based-quadcopter-drone-948153)
+* [arduino drone with gps](https://www.instructables.com/Arduino-Drone-With-GPS/)
